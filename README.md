@@ -8,7 +8,4 @@
 
 ![equation](http://latex.codecogs.com/gif.latex?\int_a^b\;f(x)=\text{abcde})
 
-<img src="https://render.githubusercontent.com/render/math?math=
-e^{i \pi} = -1
-\int_a^b f(x)
-">
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1 \int_a^b f(x) "> 
